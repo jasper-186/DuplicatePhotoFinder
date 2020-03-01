@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicatePictureFinderConsole", "DuplicatePictureFinderConsole\DuplicatePictureFinderConsole.csproj", "{D345A8EC-ED65-4927-8CAB-FB231B402355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D345A8EC-ED65-4927-8CAB-FB231B402355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D345A8EC-ED65-4927-8CAB-FB231B402355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D345A8EC-ED65-4927-8CAB-FB231B402355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D345A8EC-ED65-4927-8CAB-FB231B402355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D58628-9BAC-4BBC-B0BF-D92DB8C9E695}
+	EndGlobalSection
+EndGlobal

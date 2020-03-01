@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DuplicatePictureFinderConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--source=\"Z:\\Emmas Old Pictures\""
+    }
+  }
+}
